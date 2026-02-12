@@ -1,11 +1,9 @@
 ---
 name: five-step-algorithm
-description: 'Systematically improve any product, process, or system by following
-  Elon Musk''s strict sequence: question requirements, delete, simplify, accelerate,
-  automate.'
+description: 'Systematically improve any product, process, or system by following Elon Musk''s strict sequence: question requirements, delete, simplify, accelerate, automate.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - five-step-algorithm
