@@ -3,8 +3,9 @@ name: five-step-algorithm
 description: 'Systematically improve any product, process, or system by following Elon Musk''s strict sequence: question requirements, delete, simplify, accelerate, automate.'
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4013
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-step-algorithm
 - writing
